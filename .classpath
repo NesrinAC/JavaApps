@@ -6,5 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/KVZLPT70/Downloads/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KVZLPT70/Downloads/jar_files/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KVZLPT70/Downloads/jar_files/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KVZLPT70/Downloads/jar_files/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KVZLPT70/Downloads/jar_files/ucanaccess-5.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
